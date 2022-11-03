@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/meedaycodes](https://github.com/meedaycodes)
 
-- 💬 Ask me about **Python Java**
+- 💬 Ask me about **Python Java Data ETL**
 
 - 📫 How to reach me **habeebaramide@yahoo.com**
 
