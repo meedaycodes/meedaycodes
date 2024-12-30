@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Habeeb Shomuyiwa</h1>
-<h3 align="center">Data Engineer @theaicore</h3>
+<h3 align="center">Data Engineer @admiralpioneer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/meedaycodes](https://github.com/meedaycodes)
 
-- 💬 Ask me about **Python Java BigData AzureDatabricks ETL**
+- 💬 Ask me about **Python Java BigData AzureDatabricks ETL Matillion Snowflake**
 
 - 📫 How to reach me **habeebaramide@yahoo.com**
 
